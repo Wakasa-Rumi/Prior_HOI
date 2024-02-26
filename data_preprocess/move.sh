@@ -1,0 +1,4 @@
+mv /home/yiyao/HOI/HOI/ho/data_preprocess/dexycb/caption/021_bleach_cleanser.png /home/yiyao/HOI/HOI/ho/data_preprocess/dexycb1/caption/021_bleach_cleanser.png
+mv /home/yiyao/HOI/HOI/ho/data_preprocess/dexycb/pc_image/021_bleach_cleanser.png /home/yiyao/HOI/HOI/ho/data_preprocess/dexycb1/pc_image/021_bleach_cleanser.png
+mv /home/yiyao/HOI/HOI/ho/data_preprocess/dexycb/origin/021_bleach_cleanser.jpg /home/yiyao/HOI/HOI/ho/data_preprocess/dexycb1/origin/021_bleach_cleanser.jpg
+mv /home/yiyao/HOI/HOI/ho/data_preprocess/dexycb/template/021_bleach_cleanser.pth /home/yiyao/HOI/HOI/ho/data_preprocess/dexycb1/template/021_bleach_cleanser.pth
